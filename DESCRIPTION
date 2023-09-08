@@ -1,0 +1,11 @@
+Package: montyhall
+Title: Simulate and Analyze the Monty Hall Problem
+Version: 0.0.0.9000
+Authors@R: 
+    c(person("John", "Spaeth", , "jjspaeth@asu.edu", role = c("aut", "cre")),
+    person("Jesse", "Lecy", , "jlecy@asu.edu", role = c("aut")))
+Description: The montyhall package provides a set of functions to simulate and analyze the famous Monty Hall Problem, a probability puzzle. It allows users to replicate the game's scenarios, including initial door selection, host's actions, and outcomes, facilitating experiments and research in probability theory and decision-making. Explore the nuances of the Monty Hall Problem and test different strategies to improve your understanding of probability.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
